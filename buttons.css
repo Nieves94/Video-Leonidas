@@ -12,18 +12,18 @@
 
 }
 #play {
-    background-image: url("../icons/icons8-circled_play\ 1.svg");
+    background-image: url("./icons/icons8-circled_play\ 1.svg");
   }
   
   #pause {
-    background-image: url("../icons/icons8-pause_button\ 1.svg");
+    background-image: url("./icons/icons8-pause_button\ 1.svg");
   }
   
   #avanzar {
-    background-image: url("../icons/icons8-reset\ 1.svg");
+    background-image: url("./icons/icons8-reset\ 1.svg");
   }
   
   #retroceder {
-    background-image: url("../icons/icons8-reset\ 2.svg");
+    background-image: url("./icons/icons8-reset\ 2.svg");
   }
   
